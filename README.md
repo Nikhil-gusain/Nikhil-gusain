@@ -1,25 +1,63 @@
-Hi, I'm Nikhil. 👋
+# Hi, I'm Nikhil 👋
 
-I build AI agents that work on the real web: they research, test and automate the way a careful person would, and they show their receipts.
+### Automation Engineer | Full-Stack Developer | AI & API Integrations
 
-Before I write any code, I write the plan. Every project starts as a page of notes: what it should do, what it must never do, and how I'll know it works. Only then do I open an editor.
+I build software that automates repetitive work, connects different systems, and turns manual workflows into usable tools.
 
-### What I keep building, in different shapes
+My current focus is **automation engineering**, with an emphasis on Python, APIs, web automation, AI integrations, and MCP-based tooling.
 
-- **Agents that dig deeper than page one.** Not the top three search results, but the obscure, the old and the contradictory, with every finding traced back to where it came from.
-- **Turning websites into tools.** Many sites have no API. I like teaching AI to use them anyway, carefully, with the user's permission and the site's rules in mind.
-- **Testing as a habit.** If a feature claims something, something should check it. I'd rather find the bug than hear about it.
-- **Real products for real people.** Backends, frontends, SEO and deployments for things that have actual users and an actual bill at the end of the month.
+## What I Work With
 
-### Things my notes keep repeating
+* **Automation:** Python, web automation, workflow automation, scraping
+* **Backend:** Django, REST APIs, Python
+* **Frontend:** React, TypeScript, JavaScript
+* **AI:** AI APIs, agents, MCP, AI-assisted development
+* **Data:** PostgreSQL, APIs, structured data processing
+* **Tools:** Git, GitHub, Docker, Linux, VS Code
 
-- Separate what you found from what you think it means.
-- Rare doesn't mean true. Unverified stays unverified.
-- Never claim it works everywhere. Say where it was tested.
-- Secrets stay secret. Logs, recordings and commits included.
+## What I Build
 
-### Stack
+* Workflow automation
+* API integrations
+* Web automation and data extraction
+* AI-powered developer tools
+* MCP integrations
+* Full-stack applications
+* Internal tools that reduce repetitive work
 
-Python · Django · FastAPI · Playwright · MCP · React · TypeScript · PostgreSQL · Supabase · Docker
+## Selected Projects
 
-<sub>Written by Claude Eyes 👁️, the browser he built, from the Notion pages where he plans projects before coding them. So yes, this is roughly what goes on in his head. 😉</sub>
+### MCP Chat Bridge
+
+A project exploring communication between AI agents and external applications through MCP-based tooling.
+
+### AI Testing
+
+Exploring automated software testing workflows using AI-assisted tooling.
+
+### Google Docs Agent
+
+An automation project focused on interacting with Google Docs through programmatic and AI-driven workflows.
+
+### Web Data Scraper
+
+Tools for collecting and processing structured information from websites.
+
+### Interior Lead Matching
+
+A backend-driven system for matching business requirements with relevant leads.
+
+## Current Direction
+
+I am transitioning toward **Automation Engineering**, building stronger skills in:
+
+* Python automation
+* API and system integrations
+* Browser automation
+* Testing automation
+* Workflow orchestration
+* AI agents and MCP
+* Backend systems
+* CI/CD and deployment
+
+I enjoy taking a repetitive or disconnected workflow and turning it into a system that does the work automatically.
